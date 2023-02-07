@@ -2,6 +2,7 @@
 
 Machine translation (MT) is a subfield of computational linguistics that focuses on using software to translate text or speech from one language to another. Basic MT performs simple word substitution, but this alone is often not enough to produce a good translation, as recognition of whole phrases and their equivalent counterparts in the target language is needed. The field of MT is rapidly growing and using statistical and neural techniques to overcome language differences and produce better translations. Current MT software allows for customization to specific domains or professions, leading to improved output. This technique is particularly effective for formal or formulaic language, such as in government and legal documents, but is less effective for less standardized text like conversation.
 
+![image](https://user-images.githubusercontent.com/38975177/217239073-256792ea-a74f-45ef-818b-17b6d5b489f9.png)
 
 ## Transformer
 
