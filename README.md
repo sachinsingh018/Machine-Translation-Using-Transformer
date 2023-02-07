@@ -11,7 +11,7 @@ Transformers were introduced in 2017 by Google Brain and have quickly become the
 
 ![image](https://user-images.githubusercontent.com/38975177/217238503-47b09e7e-d6ff-4e7d-98d7-7d49ee4f2deb.png)
 
-## Transofmer Architecture
+## Transformer Architecture
 
 Transformers are deep learning models that are primarily used for natural language processing (NLP) and computer vision (CV). They differ from other models like recurrent neural networks (RNNs) in that they process the entire input sequence all at once, rather than processing one element at a time. This allows for more parallelization, which reduces training times. Additionally, transformers use a self-attention mechanism to determine the significance of each part of the input data, providing context for every position in the input.
 
